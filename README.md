@@ -5,6 +5,8 @@ This project aims to build an "AI trading assistant" that uses computer vision t
 
 Resources for the project : https://docs.google.com/document/d/1izHqNWxaiRnKxO2j0ALA9hsUZARf8tXc2SCIjq8Yfz0/edit?usp=sharing
 
+Mentees : https://docs.google.com/spreadsheets/d/1UxsSyKpN7erAnJIumvf7frdnKtCykUj3O5aSw8P0WoI/edit?usp=sharing
+
 ### Project Timeline
 
 Week 0: Basics of Python( Numpy, Pandas, Matplotlib), Intro to Google Colab, Github
